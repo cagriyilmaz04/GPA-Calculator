@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">OrtalamaHesaplama</string>
+    <string name="ders_adi">Dersin Adını Giriniz</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="sil">Sil</string>
+
+    <string-array name="kredi">
+        <item>Dersin Kredisini Giriniz</item>
+        <item>10</item>
+        <item>9.5</item>
+        <item>9.0</item>
+        <item>8.5</item>
+        <item>8.0</item>
+        <item>7.5</item>
+        <item>7.0</item>
+        <item>6.5</item>
+        <item>6.0</item>
+        <item>5.5</item>
+        <item>5.0</item>
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
+        <item>3.0</item>
+        <item>2.5</item>
+        <item>2.0</item>
+        <item>1.5</item>
+        <item>1.0</item>
+        <item>0.5</item>
+    </string-array>
+    <string-array name="harf_notlari">
+        <item>Dersin Harf Notunu Giriniz</item>
+        <item>AA</item>
+        <item>BA</item>
+        <item>BB</item>
+        <item>CB</item>
+        <item>CC</item>
+        <item>DC</item>
+        <item>DD</item>
+        <item>FF</item>
+    </string-array>
+
+
+</resources>
